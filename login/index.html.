@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>KeyMail – Sign in</title>
+<meta http-equiv="refresh" content="0; url=https://webmail.migadu.com/">
+<script>location.replace("https://webmail.migadu.com/");</script>
+<style>
+  body{font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;background:#f5f7fb;color:#101828;
+       display:flex;align-items:center;justify-content:center;min-height:100vh;margin:0;padding:16px;text-align:center}
+  @media (prefers-color-scheme: dark){body{background:#0d1117;color:#e8edf5}}
+  a{color:#4f7cff}
+</style>
+</head>
+<body>
+  <p>Redirecting to the secure login page…<br>
+  <a href="https://webmail.migadu.com/">Click here if nothing happens</a></p>
+</body>
+</html>
